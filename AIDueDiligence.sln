@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIDueDiligence", "AIDueDiligence\AIDueDiligence.csproj", "{B31C58B3-70F6-454B-B117-31C36ECDBE0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B31C58B3-70F6-454B-B117-31C36ECDBE0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31C58B3-70F6-454B-B117-31C36ECDBE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31C58B3-70F6-454B-B117-31C36ECDBE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31C58B3-70F6-454B-B117-31C36ECDBE0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCCB37F3-5987-41BB-A595-52E474DA43C7}
+	EndGlobalSection
+EndGlobal
